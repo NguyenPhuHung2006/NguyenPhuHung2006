@@ -1,7 +1,7 @@
 # Hi, I'm Nguyen Phu Hung 👋
 
 ## LeetCode Stats
-![LeetCode Stats](https://leetcard.jacoblin.cool/hungnguyen2006?theme=dark)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/hungnguyen2006?theme=dark)](https://leetcode.com/hungnguyen2006/)
 
 ## Codeforces Stats
 [![Codeforces](https://img.shields.io/badge/Codeforces-hungnguyen2006-1f8acb?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/hungnguyen2006)
