@@ -5,8 +5,6 @@
 
 ## MonkeyType Stats
 [![MonkeyType WPM](https://img.shields.io/badge/MonkeyType-phuhung06-brightgreen?style=flat-square&logo=monkeytype&logoColor=white)](https://monkeytype.com/u/phuhung06)
-![MonkeyType Stats](https://img.shields.io/badge/WPM-120-blue)
-![MonkeyType Accuracy](https://img.shields.io/badge/Accuracy-98%25-green)
 
 
 <!--
