@@ -2,6 +2,13 @@
 
 ## LeetCode Stats
 ![LeetCode Stats](https://leetcard.jacoblin.cool/hungnguyen2006?theme=dark)
+
+## MonkeyType Stats
+[![MonkeyType WPM](https://img.shields.io/badge/MonkeyType-phuhung06-brightgreen?style=flat-square&logo=monkeytype&logoColor=white)](https://monkeytype.com/u/phuhung06)
+![MonkeyType Stats](https://img.shields.io/badge/WPM-120-blue)
+![MonkeyType Accuracy](https://img.shields.io/badge/Accuracy-98%25-green)
+
+
 <!--
 **NguyenPhuHung2006/NguyenPhuHung2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
