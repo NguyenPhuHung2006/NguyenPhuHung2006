@@ -4,7 +4,7 @@
 ![LeetCode Stats](https://leetcard.jacoblin.cool/hungnguyen2006?theme=dark)
 
 ## Codeforces Stats
-![Codeforces Stats](https://cf-stats.vercel.app/api?handle=NguyenPhuHung123)
+![Codeforces Stats](https://cf-stats.vercel.app/api?handle=hungnguyen2006)
 
 ## MonkeyType Stats
 [![MonkeyType WPM](https://img.shields.io/badge/MonkeyType-phuhung06-brightgreen?style=flat-square&logo=monkeytype&logoColor=white)](https://monkeytype.com/u/phuhung06)
