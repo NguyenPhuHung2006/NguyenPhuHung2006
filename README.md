@@ -1,8 +1,7 @@
 # Hi, I'm Nguyen Phu Hung 👋
 
 ## LeetCode Stats
-![LeetCode Stats](https://leetcode-stats-six.vercel.app/?username=hungnguyen2006)
-
+[![hungnguyen2006's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=hungnguyen2006&theme=Light)](https://github.com/JeremyTsaii/leetcode-stats)
 
 <!--
 **NguyenPhuHung2006/NguyenPhuHung2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
